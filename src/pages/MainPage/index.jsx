@@ -69,4 +69,4 @@ function MainPage() {
   )
 }
 
-export default App
+export default MainPage
